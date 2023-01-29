@@ -1,0 +1,54 @@
+.homepage{
+    text-align: center;
+  }
+  
+  .image img {
+    width: 800px;
+    height: 600px;
+    margin: -700px 0px 0px 700px;
+  }
+  
+  .content {
+    margin: 0px 0px 240px -30px;
+    padding: 360px 0px 0px 200px;
+  }
+  
+  .content .hi {
+    font-size: 23px;
+    color: #e38528;
+    margin: -50px 1210px 500px 0px;
+  }
+  
+  .content h3 {
+    font-size: 40px;
+    color: #111;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin: 0px 870px 20px 0px;
+  }
+  
+  .content span {
+    text-transform: uppercase;
+  }
+  
+  .content .info {
+    font-size: 30px;
+    color: #111;
+    margin: -20px 0px 15px 0px;
+  }
+  
+  .content .text {
+    font-size: 20px;
+    color: #666;
+    padding: 0.5rem 0;
+    text-align: justify;
+    margin: 0px 700px 0px 0px;
+  }
+  
+  .content2 {
+    margin: 20px 0px 0px -30px;
+  }
+
+  .socmed{
+    margin: -100px 570px 0px -500px;
+  }
